@@ -90,3 +90,10 @@ body {
     background-color: var(--cardButtonHover);
  
 }
+
+@media (max-width:768px){
+    .cards{
+        justify-content: center;
+    }
+}
+
